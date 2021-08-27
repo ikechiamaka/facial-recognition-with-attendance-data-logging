@@ -1,5 +1,6 @@
 # facial-recognition-with-attendance-data-logging
  This software utilizes facial recognition techniques and logs data in an excel file with the time and date stamp.
+ it uses one shot learning technique.
 # Getting Started
 
 This simple guide is aimed to help you setup and run the program successfully in no time.
